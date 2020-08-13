@@ -13,5 +13,3 @@ berupa data-data objek apa saja yang mampu menjadi carrier dari virus corona pad
 wilayah tersebut beserta rincian kegiatan yang dilakukan oleh objek. Dalam
 menjalankan program ini, input dapat merupakan sebuah file dengan ekstensi .txt
 ataupun input secara manual melalui terminal begitu pula dengan outputnya.
-
-I got full score yeay (re:110)
